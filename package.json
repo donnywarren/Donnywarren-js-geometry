@@ -1,0 +1,19 @@
+{
+  "name": "js-geometry",
+  "version": "1.0.0",
+  "description": "> **NOTE:** You can ignore the `module is not defined` error you see in the console when opening `index.html` in the browser. You should still be able to test your code.",
+  "main": "geom.js",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine spec/geometry_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/sei-nyc-supernovas/js-geometry.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
