@@ -1,5 +1,14 @@
 # Geometry
 
+To get started, follow the standard process:
+
+1. Fork.
+1. Clone.
+1. `cd` into the repo and run `npm i` to install dependencies.
+1. Use `geom.js` to complete your homework.
+1. Test your code with `npm t`.
+1. Pull requests due by 11PM!
+
 > **NOTE:** You can ignore the `module is not defined` error you see in the console when opening `index.html` in the browser. You should still be able to test your code.
 
 ## Rectangle
